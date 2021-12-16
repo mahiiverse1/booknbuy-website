@@ -1,15 +1,18 @@
+// dark mode toggle
+
 function darkMode() {
         var element = document.body;
         element.classList.toggle("dark-mode");
-      }
+      } 
 
-
+// search form activation
 searchForm = document.querySelector('.search-form');
 
 document.querySelector('#search-btn').onclick = () =>{
   searchForm.classList.toggle('active');
 }      
 
+// login button activation
 let loginForm = document.querySelector('.login-form-container');
 
 document.querySelector('#login-btn').onclick = () =>{
