@@ -136,6 +136,13 @@ section{
 
 }
 
+.header .headerfile .icons{
+	
+	display: flex;
+    align-items: center;
+
+}
+
 /* for the logo name book n buy */
 .header .headerfile .logo{
 	font-size: 3.5rem;
