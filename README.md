@@ -22,7 +22,7 @@ This project is licensed under the [GNU General Public License v3.0] License - s
 
 ## Contributing Guidelines
 
-Please refer to [CONTRIBUTION.md](https://github.com/mahiiverse1/booknbuy-website/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md]() before contributing!
+Please refer to [CONTRIBUTION.md](https://github.com/mahiiverse1/booknbuy-website/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/mahiiverse1/booknbuy-website/blob/master/CODE_OF_CONDUCT.md) before contributing!
 
 ## Deployed Website
 
