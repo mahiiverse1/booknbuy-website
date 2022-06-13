@@ -12,9 +12,9 @@ This was a group project for our Semester mini project and one of the first proj
 
 Contributors names and contact info
 
-🐱[Mahii Variar](https://github.com/mahiiverse1)
-🙋🏻‍♀️[Sharvari Gaikwad](https://github.com/Sharvari1592)
-✨[Ruchi Singh](https://github.com/Ruchi06Singh)
+🐱[Mahii Variar](https://github.com/mahiiverse1) <br>
+🙋🏻‍♀️[Sharvari Gaikwad](https://github.com/Sharvari1592) <br>
+✨[Ruchi Singh](https://github.com/Ruchi06Singh) <br>
 
 ## 💡 License
 
