@@ -3,7 +3,7 @@
 /* this is used to make shortcut tags for the colors used */
 
 :root{
-	--blue: #2C75EB;
+    --blue: #2C75EB;
     --dark-color: #OC5BC4;
     --black:#444;
     --light-color:#666;
@@ -52,10 +52,10 @@ html::-webkit-scrollbar-thumb{
 }
 
 body, footer .content{
-        padding: 25px;
+        padding: 1.6rem;
         background-color: white;
         color: black;
-        font-size: 25px;
+        font-size: 1.6rem;
       }
       .dark-mode{
         background-color: black;
@@ -65,7 +65,7 @@ body, footer .content{
 
 i {
         color: var(--black);
-        font-size: 25px;
+        font-size: 1.6rem;
         margin-left: 5rem;
 }
 
@@ -74,7 +74,7 @@ i:hover{
 }
 
 p{
-        font-size: 11px;
+        font-size: 0.7rem;
         
 }
 
@@ -433,7 +433,7 @@ body {
 /* for cart */
 
 .shop-item {
-    margin: 30px;
+    margin: 1.9rem;
 }
 
 .shop-item-title {
@@ -443,17 +443,17 @@ body {
     font-weight: bold;
     font-size: 1.2em;
     
-    margin-bottom: 15px;
+    margin-bottom: 0.9rem;
 }
 
 .image {
-    height: 250px;
+    height: 15.6rem;
 }
 
 .shop-item-details {
     display: flex;
     align-items: center;
-    padding: 5px;
+    padding: 0.3rem;
 }
 
 .shop-item-price {
@@ -478,8 +478,8 @@ body {
     align-items: center;
     border-bottom: 1px solid black;
     margin-right: 1em;
-    padding-bottom: 10px;
-    margin-top: 5px;
+    padding-bottom: 0.6rem;
+    margin-top: 0.3rem;
 }
 
 .cart-row {
@@ -507,9 +507,9 @@ body {
 }
 
 .cart-item-image {
-    width: 75px;
+    width: 4.7rem;
     height: auto;
-    border-radius: 10px;
+    border-radius: 0.6rem;
 }
 
 .btn-danger {
@@ -525,15 +525,15 @@ body {
 }
 
 .cart-quantity-input {
-    height: 25px;
-    width: 40px;
-    border-radius: 5px;
+    height: 1.6rem;
+    width: 2.5rem;
+    border-radius: 0.3rem;
     border: 1px solid #56CCF2;
     background-color: #eee;
     padding: 0;
     text-align: center;
     font-size: 1em;
-    margin-right: 25px;
+    margin-right: 1.6rem;
 }
 
 .cart-row:last-child {
@@ -546,15 +546,15 @@ body {
 
 .cart-total {
     text-align: end;
-    margin-top: 5px;
-    margin-right: 5px;
+    margin-top: 0.3rem;
+    margin-right: 0.3rem;
 }
 
 .cart-total-title {
     font-weight: bold;
     font-size: 1em;
     color: black;
-    margin-right: 10px;
+    margin-right: 0.6rem;
 }
 
 .cart-total-price {
@@ -564,7 +564,7 @@ body {
 
 .btn-purchase {
     display: auto;
-    margin: 25px auto 40px auto;
+    margin: 1.6rem auto 2.5rem auto;
     font-size: 1em;
 }
 
