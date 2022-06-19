@@ -26,4 +26,4 @@ Please refer to [CONTRIBUTION.md](https://github.com/mahiiverse1/booknbuy-websit
 
 ## 🖥️ Deployed Website
 
-[Click Here](https://booknbuy.000webhostapp.com/)
+[Click Here](https://booknbuy.netlify.app/)
