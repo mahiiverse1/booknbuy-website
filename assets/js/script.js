@@ -3,14 +3,7 @@
 function darkMode() {
         var element = document.body;
         element.classList.toggle("dark-mode");
-      } 
-
-// search form activation
-let searchForm = document.querySelector('.search-form');
-
-document.querySelector('#search-btn').onclick = () =>{
-  searchForm.classList.toggle('active');
-}      
+      }    
 
 // login button activation
 let loginForm = document.querySelector('.login-form-container');
@@ -23,31 +16,6 @@ document.querySelector('#close-login-btn').onclick = () =>{
   loginForm.classList.remove('active');
 }
 
-
-
-window.onscroll = () =>{
-
-  searchForm.classList.remove('active');
-
-  if(window.scrollY > 80){
-    document.querySelector('.header .headertag').classList.add('active');
-  }else{
-    document.querySelector('.header .headertag').classList.remove('active');
-  }
-
-}
-
-window.onload = () =>{
-
-  if(window.scrollY > 80){
-    document.querySelector('.header .headertag').classList.add('active');
-  }else{
-    document.querySelector('.header .headertag').classList.remove('active');
-  }
-
-  fadeOut();
-
-}
 
 function loader(){
   document.querySelector('.loader-container').classList.add('active');
