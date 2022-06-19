@@ -16,11 +16,6 @@ document.querySelector('#close-login-btn').onclick = () =>{
   loginForm.classList.remove('active');
 }
 
-function fadeOut(){
-  setTimeout(loader, 4000);
-}
-
-
 var swiper = new Swiper(".books-slider", {
   loop:true,
   centeredSlides: true,
