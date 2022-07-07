@@ -10,7 +10,7 @@ This was a group project for our Semester mini project and one of the first proj
 
 ## 📸 Screenshots
 
-<img src="../images/main-page-light.png" />
+<img src="./images/main-page-light.png" />
 
 ## 👩🏻‍💻 Developers
 
