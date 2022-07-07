@@ -13,6 +13,15 @@ This was a group project for our Semester mini project and one of the first proj
 <i>Main Page</i>
 <img src="./images/main-page-light.png" />
 
+<i>Second page</i>
+<img src="./images/books-page.png" />
+
+<i>Add your favorite books to cart.</i>
+<img src="./images/add-to-cart.png" />
+
+<i>Switch to dark mode.</i>
+<img src="./images/main-page-dark.png" />
+
 ## 👩🏻‍💻 Developers
 
 Contributors names and contact info
