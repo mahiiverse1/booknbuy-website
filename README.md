@@ -20,7 +20,7 @@ This was a group project for our Semester mini project and one of the first proj
 <img src="./images/add-to-cart.png" />
 
 <i>Switch to dark mode.</i>
-<img src="./images/main-page-dark.png" />
+<img src="./images/main-home-dark.png" />
 
 ## 👩🏻‍💻 Developers
 
