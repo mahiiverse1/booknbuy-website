@@ -1,4 +1,4 @@
-## 📚 Book N Buy - Online Book Shopping Website
+# 📚 Book N Buy - Online Book Shopping Website
 
 A front end based book shopping website 'Book N Buy' where you can purchase your favorite books from the comfort of your home!
 
