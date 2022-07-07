@@ -8,6 +8,10 @@ Book N Buy is an online book shopping website made using HTML5, CSS3 and JavaScr
 
 This was a group project for our Semester mini project and one of the first projects we worked on. The UI is simple and not too flashy. This project is now Open Source.
 
+## 📸 Screenshots
+
+<img src="../images/main-page-light.png" />
+
 ## 👩🏻‍💻 Developers
 
 Contributors names and contact info
